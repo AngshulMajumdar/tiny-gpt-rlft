@@ -1,0 +1,12 @@
+data/
+outputs/
+**/*.bin
+**/*.pt
+**/*.jsonl
+**/logs/
+**/checkpoints/
+.ipynb_checkpoints/
+*.ipynb
+__pycache__/
+*.pyc
+.DS_Store
